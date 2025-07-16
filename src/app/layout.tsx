@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geist.variable}`}>
       <main className="flex w-full bg-amber-200">
-        <h1>Hello Lee!</h1>
+        <h1>Student Information</h1>
       </main>
       <body>{children}</body>
     </html>
